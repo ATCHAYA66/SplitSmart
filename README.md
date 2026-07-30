@@ -1,4 +1,4 @@
-# SplitSmart - Full-Stack Expense Sharing Application (Splitwise Clone)
+# SplitSmart - Full-Stack Expense Sharing Application 
 
 A modern, full-stack expense sharing web application built with **React (Vite)**, **Tailwind CSS**, **Spring Boot 3**, **Spring Security (JWT)**, and **H2 Database**.
 
