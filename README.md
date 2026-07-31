@@ -4,7 +4,7 @@ A modern, full-stack expense sharing web application built with **React (Vite)**
 
 ---
 
-## 🌟 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Framework**: React 18 with Vite
@@ -24,7 +24,7 @@ A modern, full-stack expense sharing web application built with **React (Vite)**
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Prerequisites
 - **Java 21** or later
@@ -69,7 +69,7 @@ A modern, full-stack expense sharing web application built with **React (Vite)**
 
 ---
 
-## 🔑 Pre-seeded Demo Credentials
+##  Pre-seeded Demo Credentials
 
 For quick testing without creating a new user, the database automatically seeds demo accounts on first launch:
 
@@ -112,7 +112,7 @@ For quick testing without creating a new user, the database automatically seeds 
 
 ---
 
-## 💡 Key Features & Algorithms
+##  Key Features & Algorithms
 
 1. **Flexible Expense Splitting**:
    - **Equal (`=`)**: Total amount split evenly among participants (penny remainders handled automatically).
